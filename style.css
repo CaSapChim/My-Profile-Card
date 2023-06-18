@@ -62,7 +62,18 @@ body {
     text-align: center; 
     color: grey;
     font-style: italic;
-    font-weight: 500;
+    font-weight: 400;
+}
+
+.desc h2 {
+    color: black;
+    font-style: italic;
+    padding: 5px 0;
+}
+
+.desc h2 i {
+    color: blue;
+    padding-left: 4px
 }
 
 .informations {
